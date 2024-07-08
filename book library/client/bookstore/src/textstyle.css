@@ -1,0 +1,17 @@
+
+.movep{
+    position: relative;
+    top: -400px;
+    left: 480px;
+    display: inline-block;
+}
+.p{
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: bolder; 
+     
+}
+.p2{
+    padding-left: 40px;
+    
+}

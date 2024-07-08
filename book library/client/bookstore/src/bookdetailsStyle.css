@@ -1,0 +1,66 @@
+.b-d-main{
+    border: 2px solid black;
+    margin-top: -159px;
+    width: 1100px;
+    border-radius: 15px;
+    margin-left: 200px;
+    height: 310px;
+}
+.book-cards {
+    /* border: 2px solid black; */
+    display: flex;
+    padding-left: 90px;
+    padding-bottom: 30px;
+    margin-top: 50px;
+    gap: 30px;
+    position: absolute;
+    bottom: -194px;
+    left: 500px;
+    flex-direction: column;
+}
+
+.b-d-imagediv{
+    /* border: 2px solid black; */
+
+    /* margin-top: 40px; */
+    padding-left: 20px;
+}
+
+.b-d-image{
+    height: 295px;
+    width: 220px;
+}
+
+
+.b-d-titlename{
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+.b-d-author{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.b-d-id{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.b-d-isavailable{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.b-d-button{
+    height: 40px;
+    width: 90px;
+    background-color: red;
+    color: black;
+    border: 2px solid red;
+    font-size: 30px;
+    font-weight: bolder;
+    border-radius: 10px;
+    padding-left: 30px;
+    cursor: pointer;
+}

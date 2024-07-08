@@ -1,0 +1,82 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.navbar{
+    
+    margin-left: 100px;
+    position: relative;
+    top: -600px;
+    
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 90px;
+    font-size: larger;
+    /* border: 2px solid black; */
+    height: 60px;
+    padding-top: 20px;
+    
+}
+
+.logo{
+    height: 110px;
+    width: 150px;
+}
+.logo-div{
+    margin-left: 20px;
+}
+ul li{
+    color: rgb(246, 246, 246);
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 40px;
+}
+.MainBox{
+    margin-top: -127px; 
+    display: flex; 
+    width: 100%;
+    /* border: 2px solid black; */
+    /* padding-top: 50px;
+    padding-bottom: 50px; */
+    flex-wrap: wrap;
+}
+.cards{
+    font: 30px;
+    width: 260px;
+    height: 480px;
+    border: 2px solid black;
+    margin-left: 99px;
+    margin-bottom: 60px;
+}
+.bookimg{
+    height: 350px;
+    width: 260px;
+    
+}
+
+.titlename{
+    font-size: 25px;
+    display: inline-block;
+    font-weight: bolder;
+    text-align: center;
+}
+.author{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+.id{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.isavailabel{
+    font-size:20px ;
+    font-weight: bolder;
+    text-align:  center;
+}
+

@@ -1,0 +1,151 @@
+[
+    {
+        "bookId": 1,
+        "bookname": "The Shawshank Redemption",
+        "author": "Frank Darabont",
+        "image": "https://m.media-amazon.com/images/I/51NiGlapXlL._AC_.jpg",
+        "isAvailable": "true"
+
+    },
+    {
+        "bookId": 2,
+        "bookname": "The Godfather",
+        "author": "Francis Ford Coppola",
+        "image": "https://m.media-amazon.com/images/I/41+eK8zBwQL._AC_.jpg",
+        "isAvailable": "true"
+
+    },
+    {
+        "bookId": 3,
+        "bookname": "The Dark Knight",
+        "author": "Christopher Nolan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ekE6Hhz9gvIbiFSUPxt-FyAh4zXTXX0bjQ&s",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 4,
+        "bookname": "Pulp Fiction",
+        "author": "Quentin Tarantino",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz_GOBlDxn64BMBNkkMLjLOGFuYpTFNrAR8w&s",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 5,
+        "bookname": "The Lord of the Rings: The Return of the King",
+        "author": "Peter Jackson",
+        "image": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 6,
+        "bookname": "Forrest Gump",
+        "author": "Robert Zemeckis",
+        "image": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 7,
+        "bookname": "Inception",
+        "author": "Christopher Nolan",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmkq35zEZtIgZWAHKWdGD_IRMUx-c9EOgrcQ&s",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 8,
+        "bookname": "Fight Club",
+        "author": "David Fincher",
+        "image": "https://m.media-amazon.com/images/I/51v5ZpFyaFL._AC_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 9,
+        "bookname": "The Matrix",
+        "author": "Lana Wachowski, Lilly Wachowski",
+        "image": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 10,
+        "bookname": "Goodfellas",
+        "author": "Martin Scorsese",
+        "image": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 11,
+        "bookname": "The Empire Strikes Back",
+        "author": "Irvin Kershner",
+        "image": "https://fastly-s3.allmovie.com/iva/movie/7258/300/7258.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 12,
+        "bookname": "The Lord of the Rings: The Fellowship ",
+        "author": "Peter Jackson",
+        "image": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 13,
+        "bookname": "Star Wars",
+        "author": "George Lucas",
+        "image": "https://m.media-amazon.com/images/I/71ZgwwCwV6L._AC_UF1000,1000_QL80_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 14,
+        "bookname": "The Lord of the Rings: The Two Towers",
+        "author": "Peter Jackson",
+        "image": "https://m.media-amazon.com/images/I/51Qvs9i5a%2BL._AC_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 15,
+        "bookname": "One Flew Over the Cuckoo's Nest",
+        "author": "Milos Forman",
+        "image": "https://upload.wikimedia.org/wikipedia/en/2/26/One_Flew_Over_the_Cuckoo%27s_Nest_poster.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 16,
+        "bookname": "Interstellar",
+        "author": "Christopher Nolan",
+        "image": "https://m.media-amazon.com/images/I/91VzZtKC0zL._AC_UF1000,1000_QL80_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 17,
+        "bookname": "City of God",
+        "author": "Fernando Meirelles, Kátia Lund",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-HYJ_G0x957hNOUhzZbDs4fKDd9fxqvwZCQ&s",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 18,
+        "bookname": "Spirited Away",
+        "author": "Hayao Miyazaki",
+        "image": "https://m.media-amazon.com/images/I/41kTVLeW1CL._AC_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 19,
+        "bookname": "Parasite",
+        "author": "Bong Joon Ho",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcyJYd_sWzQdj87gwIiDRpi6JtzfY6-XLG-w&s",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 20,
+        "bookname": "The Pianist",
+        "author": "Roman Polanski",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+        "isAvailable": "true"
+    },
+    {
+        "bookId": 21,
+        "bookname": "Gladiator",
+        "author": "Ridley Scott",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2mHb0jwOXZse0UUuk6gGa651lo1xM1r3cyQ&s",
+        "isAvailable": "true"
+    }
+]
